@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #EAEAEA;
+    font: #39393A;
+    list-style-position: inside;
+
+   }
+
+.container {
+    text-align: left;
+    background: white;
+    width: 70%;
+    margin: 40px auto ;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+figcaption{
+    background-color: white;
+}
+
+body {
+    line-height: 26px;
+}
+
+.desc {
+    font: 12px #8f8f8f;
+    text-align: center;
+}
+
+h2, h3{
+    text-align: center;
+    font: 1b1b1b;
+    background:white;
+}
+
+img{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    object-fit: cover;
+    background:white;
+}
+
+li{
+    background: white;
+}
+
+p{
+    background: white;
+}
